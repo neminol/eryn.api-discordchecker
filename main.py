@@ -1,3 +1,5 @@
+import requests
+
 introduction = print("Welcome to the script! I believe you're here to use the Eryn.IO API to check your Discord ID for any accounts used by RoVer and the Eryn.IO API.")
 introduction2 = print("Let's get started, shall we?")
 
